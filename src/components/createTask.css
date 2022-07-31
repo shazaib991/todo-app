@@ -1,0 +1,35 @@
+.create-task-container{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.create-task{
+    width: 50%;
+    margin-top: 50px;
+    background-color: #7858A6;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px 0 0;
+}
+
+.btn-container input{
+    height: 40px;
+    border-radius: 8px;
+    width: 250px;
+    outline: none;
+    border: none;
+    padding-left: 10px;
+}
+
+.add-icon{
+    color: #fff;
+    font-size: 24px;
+    cursor: pointer;
+}

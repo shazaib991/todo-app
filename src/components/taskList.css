@@ -1,0 +1,19 @@
+.task-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    background-color: #4C3575;
+    border-radius: 8px;
+    padding: 5px 10px;
+}
+
+.task-list h1{
+    color: #fff;
+}
+
+.trash-icon{
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
